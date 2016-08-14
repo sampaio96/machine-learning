@@ -1,4 +1,6 @@
-# Programming Exercise 7: Unsupervised Learning
+# Programming Exercise 7: K-means Clustering and Principal Component Analysis
+
+Unsupervised Learning
 
 We use unsupervised learning to build models that help us understand our data better. We discuss the k-Means algorithm for clustering that enable us to learn groupings of unlabeled data points. 
 
